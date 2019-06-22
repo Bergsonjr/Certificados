@@ -91,30 +91,30 @@ Clique [aqui ⮚][1] para ver todas as colocações e certificados. ![][medalhas
 [25]: Miscelânea/Certificado-Monitoria-2017-2018.pdf
 
 <!-- Selo de organizações -->
-[sTW]: i/treina_web19.png
-[sSL]: i/solo_learn19.png
-[sCD]: i/code19.png
-[sCV]: i/cursoemvideo19.png
-[sMS]: i/microsoft19.png
-[sSG]: i/saga19.png
-[sSB]: i/softblue19.png
-[sJG]: i/jug19.png
-[sFE]: i/feau19.png
+[sTW]: i/treina_web19.png "TreinaWeb"
+[sSL]: i/solo_learn19.png "SoloLearn"
+[sCD]: i/code19.png "C O D E"
+[sCV]: i/cursoemvideo19.png "Curso em Vídeo"
+[sMS]: i/microsoft19.png "Microsoft"
+[sSG]: i/saga19.png "Saga"
+[sSB]: i/softblue19.png "Softblue"
+[sJG]: i/jug19.png "JugVale"
+[sFE]: i/feau19.png "Feau"
 
 <!-- Idiomas (exceto português) -->
 [iUS]: i/us19.png "Idioma do curso: Inglês"
 
 <!-- Notas (estrelas) -->
-[nota1]: i/n1.png
-[nota2]: i/n2.png
-[nota3]: i/n3.png
-[nota4]: i/n4.png
-[nota5]: i/n5.png
-[nota6]: i/n6.png
-[nota7]: i/n7.png
-[nota8]: i/n8.png
-[nota9]: i/n9.png
-[nota10]: i/n10.png
+[nota1]: i/n1.png "0.5"
+[nota2]: i/n2.png "1.0"
+[nota3]: i/n3.png "1.5"
+[nota4]: i/n4.png "2.0"
+[nota5]: i/n5.png "2.5"
+[nota6]: i/n6.png "3.0"
+[nota7]: i/n7.png "3.5"
+[nota8]: i/n8.png "4.0"
+[nota9]: i/n9.png "4.5"
+[nota10]: i/n10.png "5.0"
 
 <!-- SVG de Medalhas igual do StackOverflow -->
 [medalhas]: i/medalhas.svg
