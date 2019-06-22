@@ -10,12 +10,12 @@ Coloque o mouse em cima do ícone ![][iINFO] para obter informações sobre os m
   | ---------------------- | -------------------------------------------------------------------- | ------------- | ----------------- |
   | ![][sTW] TreinaWeb     | ![][i06] **Lógica de Programação**                          [⮚][6]  | 40 Horas           | ![][nota8]   |
   | ![][sTW] TreinaWeb     | ![][i07] **Lógica de Orientação a Objetos**                 [⮚][7]  | 40 Horas           | ![][nota9]   |
-  | ![][sTW] TreinaWeb     | ![][i08]**HTML5 e CSS3 - Desenvolvimento web Básico**       [⮚][8]  | 24 Horas           | ![][nota8]   |
-  | ![][sTW] TreinaWeb     | ![][i09] **HTML5 e CSS3 - Desenvolvimento web Avançado**    [⮚][9]  | 24 Horas           | ![][nota8]   |
+  | ![][sTW] TreinaWeb     | ![][i08] **HTML5 e CSS3 - Desenv. web Básico**              [⮚][8]  | 24 Horas           | ![][nota8]   |
+  | ![][sTW] TreinaWeb     | ![][i09] **HTML5 e CSS3 - Desenv. web Avançado**            [⮚][9]  | 24 Horas           | ![][nota8]   |
   | ![][sSL] SoloLearn     | ![][i10] **JavaScript** ![][iUS] (*Inglês*)                 [⮚][10] | *tempo indefinido* | ![][nota5]   |  
   | ![][sTW] TreinaWeb     | ![][i11] **JavaScript Básico**                              [⮚][11] | 24 Horas           | ![][nota7]   |
-  | ![][sTW] TreinaWeb     | ![][i12] **JavaScript Intermediário**                       [⮚][12] | 32 Horas           | ![][nota10]   |
-  | ![][sTW] TreinaWeb     | ![][i19] **JavaScript Avançado**                            [⮚][19] | 40 Horas           | ![][nota9]  |
+  | ![][sTW] TreinaWeb     | ![][i12] **JavaScript Intermediário**                       [⮚][12] | 32 Horas           | ![][nota10]  |
+  | ![][sTW] TreinaWeb     | ![][i19] **JavaScript Avançado**                            [⮚][19] | 40 Horas           | ![][nota9]   |
   | ![][sSL] SoloLearn     | ![][i13] **Java** ![][iUS] (*Inglês*)                       [⮚][13] | *tempo indefinido* | ![][nota5]   |
   | ![][sCV] CursoEmVideo  | ![][i14] **Java**                                           [⮚][14] | *tempo indefinido* | ![][nota9]   |
   | ![][sTW] TreinaWeb     | ![][i15] **Java 10 - Orientação a Objetos**                 [⮚][15] | 16 Horas           | ![][nota10]  |
