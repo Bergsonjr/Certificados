@@ -32,6 +32,7 @@ Clique [aqui ⮚][1] para ver todas as colocações e certificados. ![][medalhas
   | ------------------------------------ | ------------- | ---- |
   | **Olimpiada de Programação** [⮚][1] | UNIVAP        | 2017 | 
   | **Olimpiada de Programação** [⮚][1] | UNIVAP        | 2018 |
+  | **Olimpiada de Programação** [⮚][1] | UNIVAP        | 2019 |
   | **Maratona de Programação**  [⮚][1] | FEAU e UNIVAP | 2017 |
   | **Maratona de Programação**  [⮚][1] | FEAU e UNIVAP | 2018 |
   | **Maratona de Programação**  [⮚][1] | FEAU e UNIVAP | 2019 |
