@@ -42,6 +42,7 @@ Clique [aqui ⮚][1] para ver todas as colocações e certificados. ![][medalhas
   | Organização      | Conteúdo                                                  | Carga horária | Avaliação Pessoal |
   | ---------------- | --------------------------------------------------------- | ------------- | ----------------- |
   | ![][sJG] JugVale | ![][i02] **Java** - 13º Encontro                 [⮚][2]  | 8 Horas       | ![][nota9]        |
+  | ![][sJG] JugVale | ![][i27] **Java** - 14º Encontro                 [⮚][27]  | 10 Horas      | ![][nota10]       |
   | ![][sFE] FEAU    | ![][i21] **SEAU** - Aprovação de Projetos em SJC [⮚][21] | 2 Horas       | ![][nota8]        |
   | ![][sFE] FEAU    | ![][i22] **SEAU** - Usinagem Aeroespacial        [⮚][22] | 2 Horas       | ![][nota6]        |
   | ![][sFE] FEAU    | ![][i23] **SEAU** - Segurança da Informação      [⮚][23] | 2 Horas       | ![][nota10]       |
@@ -59,6 +60,7 @@ Clique [aqui ⮚][1] para ver todas as colocações e certificados. ![][medalhas
   | Organização | Nome                                        | Descrição                                                         | Ano  |
   | ----------- | ------------------------------------------- | ----------------------------------------------------------------- | ---- |
   | Nasa        | **Hot Ticket** ![][iUS] (*Inglês*) [⮚][24] | Certificado de apoio à primeira missão aeroespacial na superfície solar (Sonda: Probe)                                                                                                                    | 2018 |
+  | Nasa        | **Bording Pass** - Mars 2020 ![][iUS] (*Inglês*) [⮚][26] | Certificado de apoio ao rover a ser enviado para a superfície de marte em 2020                                                                                                                  | 2019 |
   | UNIVAP      | **Grupo de Estudos** - Ensino Médio [⮚][25]| Certificado de monitoria nas matérias:<br>• Física<br>• Matemática | 2017 |
   | UNIVAP      | **Grupo de Estudos** - Ensino Médio [⮚][25]| Certificado de monitoria nas matérias:<br>• Física<br>• Matemática | 2018 |
 
@@ -90,6 +92,8 @@ Clique [aqui ⮚][1] para ver todas as colocações e certificados. ![][medalhas
 [23]: !%20Palestras/SEAU%20-%20Segurança%20da%20Informação.pdf
 [24]: Miscelânea/Nasa%20-%20Hot%20Ticket.pdf
 [25]: Miscelânea/Certificado-Monitoria-2017-2018.pdf
+[26]: Miscelânea/Nasa%20-%20Mars%202020.pdf
+[27]: fixme
 
 <!-- Selo de organizações -->
 [sTW]: i/treina_web19.png "TreinaWeb"
@@ -141,3 +145,4 @@ Clique [aqui ⮚][1] para ver todas as colocações e certificados. ![][medalhas
 [i21]: i/i.png "Temas gerais: &#013; • Registro da numeração e Licenciamento de Atividades &#013; • Habite-se &#013; • Legislações &#013; • Níveis de aprovação (C, R) &#013; • Caderneta de Obras"
 [i22]: i/i.png "Temas gerais: &#013; • História da Usinagem &#013; • Tratamento térmico &#013; • Impressão 3D &#013; • Máquinas CNC &#013; • Autonomia &#013; • GD&T"
 [i23]: i/i.png "Temas gerais: &#013; • Confidencialidade &#013; • Integridade &#013; • Disponibilidade &#013; • Segurança de dados (Física e Lógica) &#013; • Segurança Ofensiva: (D)DOS, SCAN, Sniffing, Defacementm Trojans, Ransonwares ... &#013; • Engenharia Social &#013; • Criptografia (Simétrica e Assimétrica)"
+[i27]: i/i.png "Temas gerais: &#013; • Java: O caminho das pedras &#013; • Desenvolvimento mobile híbrido &#013; • JVM por debaixo dos panos &#013; • Kotlin: a revolução na JVM &#013; • Microserviços com Spring Cloud &#013; • Microserviços com Quarkus &#013; • Camada de segurança em microserviços com Keycloak &#013; • API funcional do Java &#013; • Deep Learning &#013; • Contribuição open-source"
