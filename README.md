@@ -58,12 +58,12 @@ Clique [aqui ⮚][1] para ver todas as colocações e certificados. ![][medalhas
    
 ---
 ## Outros
-  | Organização | Nome                                         | Descrição                                                        | Ano  |
-  | ----------- | -------------------------------------------- | ---------------------------------------------------------------- | ---- |
-  | NASA    | **Hot Ticket** ![][iUS] [⮚][24]                 | Certificado de apoio à primeira missão aeroespacial na superfície solar (Sonda: Probe)                                                                                                                    | 2018 |
-  | NASA    | **Bording Pass**:<br>Mars 2020 ![][iUS] [⮚][26] | Certificado de apoio ao rover a ser enviado para a superfície de marte em 2020                                                                                                                              | 2019 |
-  | UNIVAP  | **Grupo de Estudos**:<br>Ensino Médio [⮚][25]| Certificado de monitoria nas matérias:<br>• Física<br>• Matemática   | 2017 |
-  | UNIVAP  | **Grupo de Estudos**:<br>Ensino Médio [⮚][25]| Certificado de monitoria nas matérias:<br>• Física<br>• Matemática   | 2018 |
+| Organização     | Nome                                             | Descrição                                                  | Ano  |
+| --------------- | ------------------------------------------------ | ---------------------------------------------------------- | ---- |
+| ![][sNS] NASA   | **Hot Ticket**: ![][iUS] [⮚][24]                | Certificado de apoio à primeira missão aeroespacial na superfície solar (Sonda: Probe)                                                                                                              | 2018 |
+| ![][sNS] NASA   | **Bording Pass**:<br>Mars 2020 ![][iUS] [⮚][26] | Certificado de apoio ao rover a ser enviado para a superfície de marte em 2020                                                                                                                     | 2019 |
+| ![][sUN] UNIVAP | **Grupo de Estudos**:<br>Ensino Médio [⮚][25]   | Certificado de monitoria nas matérias:<br>• Física<br>• Matemática                                                                                                                                     | 2017 |
+| ![][sUN] UNIVAP | **Grupo de Estudos**:<br>Ensino Médio [⮚][25]   | Certificado de monitoria nas matérias:<br>• Física<br>• Matemática                                                                                                                                     | 2018 |
 
 
 
@@ -115,6 +115,7 @@ Clique [aqui ⮚][1] para ver todas as colocações e certificados. ![][medalhas
 [sSG]: i/saga19.png "Saga"
 [sSB]: i/softblue19.png "Softblue"
 [sJG]: i/jug19.png "JugVale"
+[sNS]: i/nasa19.png "NASA"
 [sFE]: i/feau19.png "FEAU"
 [sUN]: i/univap19.png "Univap"
 
