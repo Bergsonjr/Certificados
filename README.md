@@ -118,7 +118,7 @@ Clique [aqui ⮚][1] para ver todas as colocações e certificados. ![][medalhas
 [nota10]: i/n10.png "5.0"
 
 <!-- SVG de Medalhas igual do StackOverflow -->
-[medalhas]: i/medalhas.svg?v=1
+[medalhas]: i/medalhas.svg
 
 <!-- Informações sobre os módulos dos cursos --- Regex: (Módulos:)?\n?\d+ - (.*)\n? -->
 [iINFO]: i/i.png "Os módulos apareceram aqui."
