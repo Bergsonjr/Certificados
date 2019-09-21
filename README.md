@@ -1,31 +1,32 @@
 # Certificações
-Todas minhas certificações de cursos (+EaDs e Eventos).  
-Avaliação Pessoal `->` ***minha** opinião sobre o curso ou palestra*.  
-Clique nas setas (**⮚**) para conferir o certificado/comprovante.  
-Coloque o mouse em cima do ícone ![][iINFO] para obter informações sobre os módulos estudados.
+Todas minhas certificações de cursos (+EaDs e Eventos);  
+Clique nas setas (**⮚**) para conferir o certificado/comprovante;  
+Coloque o mouse em cima do ícone ![][iINFO] para obter informações sobre os módulos estudados;   
+As bandeiras ![][iUS] representam cursos no idioma Inglês.
 
-## Resumo
-### Cursos (TI)
+## Cursos (TI)
+`Avaliação Pessoal`: ***minha** opinião sobre o curso ou palestra*.
+
   | Órgão emissor          | Curso                                                                | Carga horária | Avaliação Pessoal |
   | ---------------------- | -------------------------------------------------------------------- | ------------- | ----------------- |
   | ![][sTW] TreinaWeb     | ![][i06] **Lógica de Programação**                          [⮚][6]  | 40 Horas           | ![][nota8]   |
   | ![][sTW] TreinaWeb     | ![][i07] **Lógica de Orientação a Objetos**                 [⮚][7]  | 40 Horas           | ![][nota9]   |
   | ![][sTW] TreinaWeb     | ![][i08] **HTML5 e CSS3 - Desenv. web Básico**              [⮚][8]  | 24 Horas           | ![][nota8]   |
   | ![][sTW] TreinaWeb     | ![][i09] **HTML5 e CSS3 - Desenv. web Avançado**            [⮚][9]  | 24 Horas           | ![][nota8]   |
-  | ![][sSL] SoloLearn     | ![][i10] **JavaScript** ![][iUS] (*Inglês*)                 [⮚][10] | *tempo indefinido* | ![][nota5]   |  
+  | ![][sSL] SoloLearn     | ![][i10] **JavaScript** ![][iUS]                            [⮚][10] | *tempo indefinido* | ![][nota5]   |  
   | ![][sTW] TreinaWeb     | ![][i11] **JavaScript Básico**                              [⮚][11] | 24 Horas           | ![][nota7]   |
   | ![][sTW] TreinaWeb     | ![][i12] **JavaScript Intermediário**                       [⮚][12] | 32 Horas           | ![][nota10]  |
   | ![][sTW] TreinaWeb     | ![][i19] **JavaScript Avançado**                            [⮚][19] | 40 Horas           | ![][nota9]   |
-  | ![][sSL] SoloLearn     | ![][i13] **Java** ![][iUS] (*Inglês*)                       [⮚][13] | *tempo indefinido* | ![][nota5]   |
+  | ![][sSL] SoloLearn     | ![][i13] **Java** ![][iUS]                                  [⮚][13] | *tempo indefinido* | ![][nota5]   |
   | ![][sCV] CursoEmVideo  | ![][i14] **Java**                                           [⮚][14] | *tempo indefinido* | ![][nota9]   |
   | ![][sTW] TreinaWeb     | ![][i15] **Java 10 - Orientação a Objetos**                 [⮚][15] | 16 Horas           | ![][nota10]  |
-  | ![][sSL] SoloLearn     | ![][i20] **Python 3** ![][iUS] (*Inglês*)                   [⮚][20] | *tempo indefinido* | ![][nota8]   |
+  | ![][sSL] SoloLearn     | ![][i20] **Python 3** ![][iUS]                              [⮚][20] | *tempo indefinido* | ![][nota8]   |
   | ![][sMS] Microsoft MVA | ![][i16] **Office 365**                                     [⮚][16] | 1 Hora             | ![][nota5]   |
   | ![][sCD] C O D E       | ![][i17] **Basic Concepts of Computer Science** ![][iUS]    [⮚][17] | 1 Hora             | ![][nota2]   |
   | ![][sTW] TreinaWeb     | ![][i18] **RegEx - Expressões Regulares**                   [⮚][18] | 24 Horas           | ![][nota7]   |
 
 ---
-### Participações em Competições e Maratonas
+## Participações em Competições e Maratonas
 Clique [aqui ⮚][1] para ver todas as colocações e certificados. ![][medalhas]  
 
 | Organização     | Evento                                 | Certificação (ou Comprovantes)                        | Ano  | Colocação |
@@ -38,7 +39,7 @@ Clique [aqui ⮚][1] para ver todas as colocações e certificados. ![][medalhas
 | ![][sFE] FEAU   | **Maratona VIII Jr.**                  | [Certificado][m6]                            +⠀🥇⠀   | 2019 | 1º Lugar  |
 
 ---
-### Palestras
+## Palestras
   | Organização      | Conteúdo                                                  | Carga horária | Avaliação Pessoal |
   | ---------------- | --------------------------------------------------------- | ------------- | ----------------- |
   | ![][sJG] JugVale | ![][i02] **Java** - 13º Encontro                 [⮚][2]  | 8 Horas       | ![][nota9]        |
@@ -48,7 +49,7 @@ Clique [aqui ⮚][1] para ver todas as colocações e certificados. ![][medalhas
   | ![][sFE] FEAU    | ![][i23] **SEAU** - Segurança da Informação      [⮚][23] | 2 Horas       | ![][nota10]       |
 
 ---
-### Academias e Oficinas
+## Academias e Oficinas
   | Organização       | Conteúdo                 | Carga horária | Avaliação Pessoal |
   | ----------------- | ------------------------ | ------------- | ----------------- |
   | ![][sSG] Saga     | **Modelagem 3D** [⮚][3] | 8 Horas       | ![][nota5]        |
@@ -56,13 +57,13 @@ Clique [aqui ⮚][1] para ver todas as colocações e certificados. ![][medalhas
   | ![][sSB] Softblue | **PHP**          [⮚][5] | 12 horas      | ![][nota10]       |
    
 ---
-### Outros
-  | Organização | Nome                                        | Descrição                                                         | Ano  |
-  | ----------- | ------------------------------------------- | ----------------------------------------------------------------- | ---- |
-  | NASA        | **Hot Ticket** ![][iUS] (*Inglês*) [⮚][24] | Certificado de apoio à primeira missão aeroespacial na superfície solar (Sonda: Probe)                                                                                                                    | 2018 |
-  | NASA        | **Bording Pass** - Mars 2020 ![][iUS] (*Inglês*) [⮚][26] | Certificado de apoio ao rover a ser enviado para a superfície de marte em 2020                                                                                                                  | 2019 |
-  | UNIVAP      | **Grupo de Estudos** - Ensino Médio [⮚][25]| Certificado de monitoria nas matérias:<br>• Física<br>• Matemática | 2017 |
-  | UNIVAP      | **Grupo de Estudos** - Ensino Médio [⮚][25]| Certificado de monitoria nas matérias:<br>• Física<br>• Matemática | 2018 |
+## Outros
+  | Organização | Nome                                         | Descrição                                                        | Ano  |
+  | ----------- | -------------------------------------------- | ---------------------------------------------------------------- | ---- |
+  | NASA    | **Hot Ticket** ![][iUS] [⮚][24]                 | Certificado de apoio à primeira missão aeroespacial na superfície solar (Sonda: Probe)                                                                                                                    | 2018 |
+  | NASA    | **Bording Pass**:<br>Mars 2020 ![][iUS] [⮚][26] | Certificado de apoio ao rover a ser enviado para a superfície de marte em 2020                                                                                                                              | 2019 |
+  | UNIVAP  | **Grupo de Estudos**:<br>Ensino Médio [⮚][25]| Certificado de monitoria nas matérias:<br>• Física<br>• Matemática   | 2017 |
+  | UNIVAP  | **Grupo de Estudos**:<br>Ensino Médio [⮚][25]| Certificado de monitoria nas matérias:<br>• Física<br>• Matemática   | 2018 |
 
 
 
