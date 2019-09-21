@@ -28,14 +28,14 @@ Coloque o mouse em cima do ícone ![][iINFO] para obter informações sobre os m
 ### Participações em Competições e Maratonas
 Clique [aqui ⮚][1] para ver todas as colocações e certificados. ![][medalhas]  
 
-  | Evento                               | Universidade  | Ano  |
-  | ------------------------------------ | ------------- | ---- |
-  | **Olimpiada de Programação** [⮚][1] | UNIVAP        | 2017 | 
-  | **Olimpiada de Programação** [⮚][1] | UNIVAP        | 2018 |
-  | **Olimpiada de Programação** [⮚][1] | UNIVAP        | 2019 |
-  | **Maratona de Programação**  [⮚][1] | FEAU e UNIVAP | 2017 |
-  | **Maratona de Programação**  [⮚][1] | FEAU e UNIVAP | 2018 |
-  | **Maratona de Programação**  [⮚][1] | FEAU e UNIVAP | 2019 |
+| Organização     | Evento                                 | Certificação (ou Comprovantes)                        | Ano  | Colocação |
+| --------------- | -------------------------------------- | ----------------------------------------------------- | ---- | --------- |
+| ![][sUN] UNIVAP | **Olimpíada de Programação (OPC X)**   | [OPC X - 2017][m1] [[ver.: Backup][m2]]      +⠀🥉    | 2017 | 5º Lugar  |
+| ![][sUN] UNIVAP | **Olimpíada de Programação (OPC XI)**  | [Certificado][m3]                            +⠀🥈⠀   | 2018 | 2º Lugar  |
+| ![][sUN] UNIVAP | **Olimpíada de Programação (OPC XII)** | [Certificado][m7]                            +⠀🥇🏆  | 2019 | 1º Lugar  |
+| ![][sFE] FEAU   | **Maratona VI Jr.**                    | [Certificado][m4]                            +⠀🥈⠀   | 2017 | 2º Lugar  |
+| ![][sFE] FEAU   | **Maratona VII Jr.**                   | [Ranking - 2018][m5]                                  | 2018 | 10º Lugar |
+| ![][sFE] FEAU   | **Maratona VIII Jr.**                  | [Certificado][m6]                            +⠀🥇⠀   | 2019 | 1º Lugar  |
 
 ---
 ### Palestras
@@ -59,13 +59,14 @@ Clique [aqui ⮚][1] para ver todas as colocações e certificados. ![][medalhas
 ### Outros
   | Organização | Nome                                        | Descrição                                                         | Ano  |
   | ----------- | ------------------------------------------- | ----------------------------------------------------------------- | ---- |
-  | Nasa        | **Hot Ticket** ![][iUS] (*Inglês*) [⮚][24] | Certificado de apoio à primeira missão aeroespacial na superfície solar (Sonda: Probe)                                                                                                                    | 2018 |
-  | Nasa        | **Bording Pass** - Mars 2020 ![][iUS] (*Inglês*) [⮚][26] | Certificado de apoio ao rover a ser enviado para a superfície de marte em 2020                                                                                                                  | 2019 |
+  | NASA        | **Hot Ticket** ![][iUS] (*Inglês*) [⮚][24] | Certificado de apoio à primeira missão aeroespacial na superfície solar (Sonda: Probe)                                                                                                                    | 2018 |
+  | NASA        | **Bording Pass** - Mars 2020 ![][iUS] (*Inglês*) [⮚][26] | Certificado de apoio ao rover a ser enviado para a superfície de marte em 2020                                                                                                                  | 2019 |
   | UNIVAP      | **Grupo de Estudos** - Ensino Médio [⮚][25]| Certificado de monitoria nas matérias:<br>• Física<br>• Matemática | 2017 |
   | UNIVAP      | **Grupo de Estudos** - Ensino Médio [⮚][25]| Certificado de monitoria nas matérias:<br>• Física<br>• Matemática | 2018 |
 
-<!-- -=- # --- REFERÊNCIAS --- -=- -->
 
+
+<!-- -=- # --- REFERÊNCIAS --- # -=- -->
 <!-- Links/Certificados -->
 [1]: !%20Maratonas%20e%20Competições/
 [2]: !%20Palestras/JugVale%20-%20Java.pdf
@@ -95,6 +96,15 @@ Clique [aqui ⮚][1] para ver todas as colocações e certificados. ![][medalhas
 [26]: Miscelânea/Nasa%20-%20Mars%202020.pdf
 [27]: fixme
 
+<!-- Competições e Maratonas -->
+[m1]: !%20Maratonas%20e%20Competições/https://www1.univap.br/wagner/Olimp2017.zip
+[m2]: !%20Maratonas%20e%20Competições/Classificação-OPC2017.pdf
+[m3]: !%20Maratonas%20e%20Competições/Certificado-OPC2018.pdf
+[m4]: !%20Maratonas%20e%20Competições/Certificado-Maratona-2017.pdf
+[m5]: !%20Maratonas%20e%20Competições/https://web.univap.br/maratona_programacao/edicoes_anteriores/2018/ranking_junior.php
+[m6]: !%20Maratonas%20e%20Competições/Certificado-Maratona-2019.pdf
+[m7]: fixme
+
 <!-- Selo de organizações -->
 [sTW]: i/treina_web19.png "TreinaWeb"
 [sSL]: i/solo_learn19.png "SoloLearn"
@@ -104,7 +114,8 @@ Clique [aqui ⮚][1] para ver todas as colocações e certificados. ![][medalhas
 [sSG]: i/saga19.png "Saga"
 [sSB]: i/softblue19.png "Softblue"
 [sJG]: i/jug19.png "JugVale"
-[sFE]: i/feau19.png "Feau"
+[sFE]: i/feau19.png "FEAU"
+[sUN]: i/univap19.png "Univap"
 
 <!-- Idiomas (exceto português) -->
 [iUS]: i/us19.png "Idioma do curso: Inglês"
