@@ -43,7 +43,7 @@ Clique [aqui ⮚][1] para ver todas as colocações e certificados. ![][medalhas
   | Organização      | Conteúdo                                                  | Carga horária | Avaliação Pessoal |
   | ---------------- | --------------------------------------------------------- | ------------- | ----------------- |
   | ![][sJG] JugVale | ![][i02] **Java** - 13º Encontro                 [⮚][2]  | 8 Horas       | ![][nota9]        |
-  | ![][sJG] JugVale | ![][i27] **Java** - 14º Encontro                 [⮚][27]  | 10 Horas      | ![][nota10]       |
+  | ![][sJG] JugVale | ![][i27] **Java** - 14º Encontro                 [⮚][27] | 8 Horas      | ![][nota10]       |
   | ![][sFE] FEAU    | ![][i21] **SEAU** - Aprovação de Projetos em SJC [⮚][21] | 2 Horas       | ![][nota8]        |
   | ![][sFE] FEAU    | ![][i22] **SEAU** - Usinagem Aeroespacial        [⮚][22] | 2 Horas       | ![][nota6]        |
   | ![][sFE] FEAU    | ![][i23] **SEAU** - Segurança da Informação      [⮚][23] | 2 Horas       | ![][nota10]       |
@@ -95,7 +95,7 @@ Clique [aqui ⮚][1] para ver todas as colocações e certificados. ![][medalhas
 [24]: Miscelânea/Nasa%20-%20Hot%20Ticket.pdf
 [25]: Miscelânea/Certificado-Monitoria-2017-2018.pdf
 [26]: Miscelânea/Nasa%20-%20Mars%202020.pdf
-[27]: fixme
+[27]: !%20Palestras/JugVale%2014%20-%20Java.pdf
 
 <!-- Competições e Maratonas -->
 [m1]: !%20Maratonas%20e%20Competições/https://www1.univap.br/wagner/Olimp2017.zip
