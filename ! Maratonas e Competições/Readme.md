@@ -15,4 +15,4 @@
 [4]: Certificado-Maratona-2017.pdf
 [5]: https://web.univap.br/maratona_programacao/edicoes_anteriores/2018/ranking_junior.php
 [6]: Certificado-Maratona-2019.pdf
-[7]: fixme
+[7]: Certificado-OPC2019.pdf
