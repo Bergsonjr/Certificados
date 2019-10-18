@@ -4,8 +4,9 @@ Clique nas setas (**⮚**) para conferir o certificado/comprovante;
 Coloque o mouse em cima do ícone ![][iINFO] para obter informações sobre os módulos estudados;   
 As bandeiras ![][iUS] representam cursos no idioma Inglês.
 
-## Cursos (TI)
-`Avaliação Pessoal`: ***minha** opinião sobre o curso ou palestra*.
+## Cursos 
+• `Avaliação Pessoal`: ***minha** opinião sobre o curso ou palestra*.
+### Computação/T.I.
 
   | Órgão emissor          | Curso                                                                | Carga horária | Avaliação Pessoal |
   | ---------------------- | -------------------------------------------------------------------- | ------------- | ----------------- |
@@ -24,6 +25,11 @@ As bandeiras ![][iUS] representam cursos no idioma Inglês.
   | ![][sMS] Microsoft MVA | ![][i16] **Office 365**                                     [⮚][16] | 1 Hora             | ![][nota5]   |
   | ![][sCD] C O D E       | ![][i17] **Basic Concepts of Computer Science** ![][iUS]    [⮚][17] | 1 Hora             | ![][nota2]   |
   | ![][sTW] TreinaWeb     | ![][i18] **RegEx - Expressões Regulares**                   [⮚][18] | 24 Horas           | ![][nota7]   |
+
+### Eletrônica
+| Órgão emissor           | Curso                                                                | Carga horária | Avaliação Pessoal |
+| ----------------------- | -------------------------------------------------------------------- | ------------- | ----------------- |
+| ![][sLU] LÚMINA (UFRGS) | ![][i28] **Introdução a Arduino**                          [⮚][28]  | 20 Horas      | ![][nota10]       |
 
 ---
 ## Participações em Competições e Maratonas
@@ -96,6 +102,7 @@ Clique [aqui ⮚][1] para ver todas as colocações e certificados. ![][medalhas
 [25]: Miscelânea/Certificado-Monitoria-2017-2018.pdf
 [26]: Miscelânea/Nasa%20-%20Mars%202020.pdf
 [27]: !%20Palestras/JugVale%2014%20-%20Java.pdf
+[28]: Eletrônica/Introducao-Arduino.pdf
 
 <!-- Competições e Maratonas -->
 [m1]: !%20Maratonas%20e%20Competições/https://www1.univap.br/wagner/Olimp2017.zip
@@ -118,6 +125,7 @@ Clique [aqui ⮚][1] para ver todas as colocações e certificados. ![][medalhas
 [sNS]: i/nasa19.png "NASA"
 [sFE]: i/feau19.png "FEAU"
 [sUN]: i/univap19.png "Univap"
+[sLU]: i/lumina19.png "Lúmina"
 
 <!-- Idiomas (exceto português) -->
 [iUS]: i/us19.png "Idioma do curso: Inglês"
@@ -159,3 +167,4 @@ Clique [aqui ⮚][1] para ver todas as colocações e certificados. ![][medalhas
 [i22]: i/i.png "Temas gerais: &#013; • História da Usinagem &#013; • Tratamento térmico &#013; • Impressão 3D &#013; • Máquinas CNC &#013; • Autonomia &#013; • GD&T"
 [i23]: i/i.png "Temas gerais: &#013; • Confidencialidade &#013; • Integridade &#013; • Disponibilidade &#013; • Segurança de dados (Física e Lógica) &#013; • Segurança Ofensiva: (D)DOS, SCAN, Sniffing, Defacementm Trojans, Ransonwares ... &#013; • Engenharia Social &#013; • Criptografia (Simétrica e Assimétrica)"
 [i27]: i/i.png "Temas gerais: &#013; • Java: O caminho das pedras &#013; • Desenvolvimento mobile híbrido &#013; • JVM por debaixo dos panos &#013; • Kotlin: a revolução na JVM &#013; • Microserviços com Spring Cloud &#013; • Microserviços com Quarkus &#013; • Camada de segurança em microserviços com Keycloak &#013; • API funcional do Java &#013; • Deep Learning &#013; • Contribuição open-source"
+[i28]: i/i.png "Temas gerais: &#013; • Conceitos básicos de programação &#013; • Automação com a placa Arduino &#013; • Leitura de sensores &#013; • Acionamento de motores &#013; • Comunicação com um computador &#013; • Conceitos de eletrônica (tensão, corrente, potência) &#013; • Segurança com equipamentos eletrônicos"
