@@ -104,7 +104,7 @@ Clique [aqui ⮚][1] para ver todas as colocações e certificados. ![][medalhas
 [m4]: !%20Maratonas%20e%20Competições/Certificado-Maratona-2017.pdf
 [m5]: !%20Maratonas%20e%20Competições/https://web.univap.br/maratona_programacao/edicoes_anteriores/2018/ranking_junior.php
 [m6]: !%20Maratonas%20e%20Competições/Certificado-Maratona-2019.pdf
-[m7]: fixme
+[m7]: !%20Maratonas%20e%20Competições/Certificado-OPC2019.pdf
 
 <!-- Selo de organizações -->
 [sTW]: i/treina_web19.png "TreinaWeb"
