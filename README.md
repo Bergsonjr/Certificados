@@ -29,7 +29,7 @@ As bandeiras ![][iUS] representam cursos no idioma Inglês.
 ### Eletrônica
 | Órgão emissor           | Curso                                                                | Carga horária | Avaliação Pessoal |
 | ----------------------- | -------------------------------------------------------------------- | ------------- | ----------------- |
-| ![][sLU] LÚMINA (UFRGS) | ![][i28] **Introdução a Arduino**                          [⮚][28]  | 20 Horas      | ![][nota10]       |
+| ![][sLU] Lúmina (UFRGS) | ![][i28] **Introdução a Arduino**                          [⮚][28]  | 20 Horas      | ![][nota10]       |
 
 ---
 ## Participações em Competições e Maratonas
