@@ -19,7 +19,7 @@ As bandeiras ![][iUS] representam cursos no idioma Inglês.
   | ![][sTW] TreinaWeb     | ![][i12] **JavaScript Intermediário**                       [⮚][12] | 32 Horas           | ![][nota10]  |
   | ![][sTW] TreinaWeb     | ![][i19] **JavaScript Avançado**                            [⮚][19] | 40 Horas           | ![][nota9]   |
   | ![][sSL] SoloLearn     | ![][i13] **Java** ![][iUS]                                  [⮚][13] | *tempo indefinido* | ![][nota5]   |
-  | ![][sCV] CursoEmVideo  | ![][i14] **Java**                                           [⮚][14] | *tempo indefinido* | ![][nota9]   |
+  | ![][sCV] CursoEmVideo  | ![][i14] **Java**                                           [⮚][14] | 40 Horas / Aula    | ![][nota9]   |
   | ![][sTW] TreinaWeb     | ![][i15] **Java 10 - Orientação a Objetos**                 [⮚][15] | 16 Horas           | ![][nota10]  |
   | ![][sSL] SoloLearn     | ![][i20] **Python 3** ![][iUS]                              [⮚][20] | *tempo indefinido* | ![][nota8]   |
   | ![][sMS] Microsoft MVA | ![][i16] **Office 365**                                     [⮚][16] | 1 Hora             | ![][nota5]   |
