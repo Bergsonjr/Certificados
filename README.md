@@ -1,35 +1,49 @@
 # Certificações
 Todas minhas certificações de cursos (+EaDs e Eventos);  
 Clique nas setas (**⮚**) para conferir o certificado/comprovante;  
-Coloque o mouse em cima do ícone ![][iINFO] para obter informações sobre os módulos estudados;   
 As bandeiras ![][iUS] representam cursos no idioma Inglês.
 
+## Acadêmico / Científico
+| Órgão emissor          | Certificação                                                          | Data                       |
+| ---------------------- | --------------------------------------------------------------------- | -------------------------- |
+| ![][sIJ] INICJr        | **Certificado de Participação do Congresso**        [⮚][29] | 24/10/2019 <br> 25/10/2019 |
+| ![][sIJ] INICJr        | **Aplicação para Correção Automática de Gabaritos** [⮚][30] | 24/10/2019                 |
+| ![][sIJ] INICJr        | **Codificador de Estruturas Moleculares**           [⮚][31] | 25/10/2019                 |
+| ![][sDG] Duolingo      | **Duolingo Educator Training Program** ![][iUS]     [⮚][32] | 01/06/2016                 |
+
+
 ## Cursos 
-• `Avaliação Pessoal`: ***minha** opinião sobre o curso ou palestra*.
+• `Avaliação Pessoal`: ***minha** opinião sobre o curso ou palestra*;   
+• Coloque o mouse em cima do ícone ![][iINFO] para obter informações sobre os módulos estudados.
 ### Computação/TI
 
-  | Órgão emissor          | Curso                                                                | Carga horária | Avaliação Pessoal |
-  | ---------------------- | -------------------------------------------------------------------- | ------------- | ----------------- |
-  | ![][sTW] TreinaWeb     | ![][i06] **Lógica de Programação**                          [⮚][6]  | 40 Horas           | ![][nota8]   |
-  | ![][sTW] TreinaWeb     | ![][i07] **Lógica de Orientação a Objetos**                 [⮚][7]  | 40 Horas           | ![][nota9]   |
-  | ![][sTW] TreinaWeb     | ![][i08] **HTML5 e CSS3 - Desenv. web Básico**              [⮚][8]  | 24 Horas           | ![][nota8]   |
-  | ![][sTW] TreinaWeb     | ![][i09] **HTML5 e CSS3 - Desenv. web Avançado**            [⮚][9]  | 24 Horas           | ![][nota8]   |
-  | ![][sSL] SoloLearn     | ![][i10] **JavaScript** ![][iUS]                            [⮚][10] | *tempo indefinido* | ![][nota5]   |  
-  | ![][sTW] TreinaWeb     | ![][i11] **JavaScript Básico**                              [⮚][11] | 24 Horas           | ![][nota7]   |
-  | ![][sTW] TreinaWeb     | ![][i12] **JavaScript Intermediário**                       [⮚][12] | 32 Horas           | ![][nota10]  |
-  | ![][sTW] TreinaWeb     | ![][i19] **JavaScript Avançado**                            [⮚][19] | 40 Horas           | ![][nota9]   |
-  | ![][sSL] SoloLearn     | ![][i13] **Java** ![][iUS]                                  [⮚][13] | *tempo indefinido* | ![][nota5]   |
-  | ![][sCV] CursoEmVideo  | ![][i14] **Java**                                           [⮚][14] | 40 Horas / Aula    | ![][nota9]   |
-  | ![][sTW] TreinaWeb     | ![][i15] **Java 10 - Orientação a Objetos**                 [⮚][15] | 16 Horas           | ![][nota10]  |
-  | ![][sSL] SoloLearn     | ![][i20] **Python 3** ![][iUS]                              [⮚][20] | *tempo indefinido* | ![][nota8]   |
-  | ![][sMS] Microsoft MVA | ![][i16] **Office 365**                                     [⮚][16] | 1 Hora             | ![][nota5]   |
-  | ![][sCD] C O D E       | ![][i17] **Basic Concepts of Computer Science** ![][iUS]    [⮚][17] | 1 Hora             | ![][nota2]   |
-  | ![][sTW] TreinaWeb     | ![][i18] **RegEx - Expressões Regulares**                   [⮚][18] | 24 Horas           | ![][nota7]   |
+| Órgão emissor          | Curso                                                                | Carga horária | Avaliação Pessoal |
+| ---------------------- | -------------------------------------------------------------------- | ------------- | ----------------- |
+| ![][sTW] TreinaWeb     | ![][i06] **Lógica de Programação**                          [⮚][6]  | 40 Horas           | ![][nota8]   |
+| ![][sTW] TreinaWeb     | ![][i07] **Lógica de Orientação a Objetos**                 [⮚][7]  | 40 Horas           | ![][nota9]   |
+| ![][sTW] TreinaWeb     | ![][i08] **HTML5 e CSS3 - Desenv. web Básico**              [⮚][8]  | 24 Horas           | ![][nota8]   |
+| ![][sTW] TreinaWeb     | ![][i09] **HTML5 e CSS3 - Desenv. web Avançado**            [⮚][9]  | 24 Horas           | ![][nota8]   |
+| ![][sSL] SoloLearn     | ![][i10] **JavaScript** ![][iUS]                            [⮚][10] | *tempo indefinido* | ![][nota5]   |  
+| ![][sTW] TreinaWeb     | ![][i11] **JavaScript Básico**                              [⮚][11] | 24 Horas           | ![][nota7]   |
+| ![][sTW] TreinaWeb     | ![][i12] **JavaScript Intermediário**                       [⮚][12] | 32 Horas           | ![][nota10]  |
+| ![][sTW] TreinaWeb     | ![][i19] **JavaScript Avançado**                            [⮚][19] | 40 Horas           | ![][nota9]   |
+| ![][sSL] SoloLearn     | ![][i13] **Java** ![][iUS]                                  [⮚][13] | *tempo indefinido* | ![][nota5]   |
+| ![][sCV] CursoEmVideo  | ![][i14] **Java**                                           [⮚][14] | 40 Horas / Aula    | ![][nota9]   |
+| ![][sTW] TreinaWeb     | ![][i15] **Java 10 - Orientação a Objetos**                 [⮚][15] | 16 Horas           | ![][nota10]  |
+| ![][sSL] SoloLearn     | ![][i20] **Python 3** ![][iUS]                              [⮚][20] | *tempo indefinido* | ![][nota8]   |
+| ![][sMS] Microsoft MVA | ![][i16] **Office 365**                                     [⮚][16] | 1 Hora             | ![][nota5]   |
+| ![][sCD] C O D E       | ![][i17] **Basic Concepts of Computer Science** ![][iUS]    [⮚][17] | 1 Hora             | ![][nota2]   |
+| ![][sTW] TreinaWeb     | ![][i18] **RegEx - Expressões Regulares**                   [⮚][18] | 24 Horas           | ![][nota7]   |
 
 ### Eletrônica
 | Órgão emissor           | Curso                                                                | Carga horária | Avaliação Pessoal |
 | ----------------------- | -------------------------------------------------------------------- | ------------- | ----------------- |
 | ![][sLU] Lúmina (UFRGS) | ![][i28] **Introdução a Arduino**                          [⮚][28]  | 20 Horas      | ![][nota10]       |
+
+### Biomedicina
+| Órgão emissor                                | Curso                                             | Carga horária | Avaliação Pessoal |
+| -------------------------------------------- | ------------------------------------------------- | ------------- | ----------------- |
+| ![][sPM] Postgraduate Institute for Medicine | ![][i33] **SBV – Suporte Básico de Vida - CETS** ![][iUS] [Card][33c][⮚][33]  | *tempo indefinido*      | ![][nota9]       |
 
 ---
 ## Participações em Competições e Maratonas
@@ -46,13 +60,14 @@ Clique [aqui ⮚][1] para ver todas as colocações e certificados. ![][medalhas
 
 ---
 ## Palestras
-  | Organização      | Conteúdo                                                  | Carga horária | Avaliação Pessoal |
-  | ---------------- | --------------------------------------------------------- | ------------- | ----------------- |
-  | ![][sJG] JugVale | ![][i02] **Java** - 13º Encontro                 [⮚][2]  | 8 Horas       | ![][nota9]        |
-  | ![][sJG] JugVale | ![][i27] **Java** - 14º Encontro                 [⮚][27] | 8 Horas      | ![][nota10]       |
-  | ![][sFE] FEAU    | ![][i21] **SEAU** - Aprovação de Projetos em SJC [⮚][21] | 2 Horas       | ![][nota8]        |
-  | ![][sFE] FEAU    | ![][i22] **SEAU** - Usinagem Aeroespacial        [⮚][22] | 2 Horas       | ![][nota6]        |
-  | ![][sFE] FEAU    | ![][i23] **SEAU** - Segurança da Informação      [⮚][23] | 2 Horas       | ![][nota10]       |
+  | Organização      | Conteúdo                                                                 | Carga horária | Avaliação Pessoal |
+  | ---------------- | ------------------------------------------------------------------------ | ------------- | ----------------- |
+  | ![][sJG] JugVale | ![][i02] **Java** - 13º Encontro                                [⮚][2]  | 8 Horas       | ![][nota9]        |
+  | ![][sJG] JugVale | ![][i27] **Java** - 14º Encontro                                [⮚][27] | 8 Horas       | ![][nota10]       |
+  | ![][sFE] FEAU    | ![][i21] **SEAU** - Aprovação de Projetos em SJC                [⮚][21] | 2 Horas       | ![][nota8]        |
+  | ![][sFE] FEAU    | ![][i22] **SEAU** - Usinagem Aeroespacial                       [⮚][22] | 2 Horas       | ![][nota6]        |
+  | ![][sFE] FEAU    | ![][i23] **SEAU** - Segurança da Informação                     [⮚][23] | 2 Horas       | ![][nota10]       |
+  | ![][sFE] FEAU    | ![][i34] **SEAU** - Interface Física Médica e Medicina Nuclear  [⮚][34] | 2 Horas       | ![][nota9]        |
 
 ---
 ## Academias e Oficinas
@@ -103,6 +118,13 @@ Clique [aqui ⮚][1] para ver todas as colocações e certificados. ![][medalhas
 [26]: Miscelânea/Nasa%20-%20Mars%202020.pdf
 [27]: !%20Palestras/JugVale%2014%20-%20Java.pdf
 [28]: Eletrônica/Introducao-Arduino.pdf
+[29]: !%20Acadêmico/INICJr-participacao.pdf
+[30]: !%20Acadêmico/INICJr-aceito-1.pdf
+[31]: !%20Acadêmico/INICJr-aceito-2.pdf
+[32]: !%20Acadêmico/Educador-Duolingo.pdf
+[33]: Biomedicina/Suporte%20Básico%20de%20Vida%20(SBV%20-%20BLS).pdf
+[33c]: Biomedicina/Basic%20Life%20Support%20(BLS)%20ID%20Card.pdf
+[34]: !%20Palestras/SEAU%20-%20Trabalho%20de%20engenheiro%20biomédico.pdf
 
 <!-- Competições e Maratonas -->
 [m1]: !%20Maratonas%20e%20Competições/https://www1.univap.br/wagner/Olimp2017.zip
@@ -126,6 +148,9 @@ Clique [aqui ⮚][1] para ver todas as colocações e certificados. ![][medalhas
 [sFE]: i/feau19.png "FEAU"
 [sUN]: i/univap19.png "Univap"
 [sLU]: i/lumina19.png "Lúmina"
+[sIJ]: i/inic19.png "INIC Jr."
+[sPM]: i/pim19.png "Postgraduate Institute for Medicine"
+[sDG]: i/duolingo19.png "Duolingo"
 
 <!-- Idiomas (exceto português) -->
 [iUS]: i/us19.png "Idioma do curso: Inglês"
@@ -168,3 +193,5 @@ Clique [aqui ⮚][1] para ver todas as colocações e certificados. ![][medalhas
 [i23]: i/i.png "Temas gerais: &#013; • Confidencialidade &#013; • Integridade &#013; • Disponibilidade &#013; • Segurança de dados (Física e Lógica) &#013; • Segurança Ofensiva: (D)DOS, SCAN, Sniffing, Defacementm Trojans, Ransonwares ... &#013; • Engenharia Social &#013; • Criptografia (Simétrica e Assimétrica)"
 [i27]: i/i.png "Temas gerais: &#013; • Java: O caminho das pedras &#013; • Desenvolvimento mobile híbrido &#013; • JVM por debaixo dos panos &#013; • Kotlin: a revolução na JVM &#013; • Microserviços com Spring Cloud &#013; • Microserviços com Quarkus &#013; • Camada de segurança em microserviços com Keycloak &#013; • API funcional do Java &#013; • Deep Learning &#013; • Contribuição open-source"
 [i28]: i/i.png "Temas gerais: &#013; • Conceitos básicos de programação &#013; • Automação com a placa Arduino &#013; • Leitura de sensores &#013; • Acionamento de motores &#013; • Comunicação com um computador &#013; • Conceitos de eletrônica (tensão, corrente, potência) &#013; • Segurança com equipamentos eletrônicos"
+[i33]: i/i.png "Temas gerais: &#013; • APH - Atendimento Pré-Hospitalar &#013; • RCP - Reanimação Cardiorrespiratória &#013; • DEA - Desfibrilador Externo Automático"
+[i34]: i/i.png "Temas gerais: &#013; • Rotina de um Engenheiro Biomédico &#013; • Radiação não ionizante &#013; • Emergências Hospitalares"
