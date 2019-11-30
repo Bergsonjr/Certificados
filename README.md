@@ -6,7 +6,7 @@ As bandeiras ![][iUS] representam cursos no idioma Inglês.
 
 ## Cursos 
 • `Avaliação Pessoal`: ***minha** opinião sobre o curso ou palestra*.
-### Computação/T.I.
+### Computação/TI
 
   | Órgão emissor          | Curso                                                                | Carga horária | Avaliação Pessoal |
   | ---------------------- | -------------------------------------------------------------------- | ------------- | ----------------- |
